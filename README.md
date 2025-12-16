@@ -44,6 +44,7 @@ Ce dépôt contient les travaux pratiques du **Lab 3**, concentré sur l'écritu
 
 
 **Négation NOT**
+
 <img width="501" height="210" alt="image" src="https://github.com/user-attachments/assets/11566faa-66e1-4ca5-a15d-f18bc900e143" />
 
 
