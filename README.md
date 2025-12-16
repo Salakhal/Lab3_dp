@@ -38,7 +38,7 @@ Ce dépôt contient les travaux pratiques du **Lab 3**, concentré sur l'écritu
 
 <img width="237" height="115" alt="image" src="https://github.com/user-attachments/assets/efc03320-9e73-4d4b-a45e-d8428074e3f4" />
 
-**Combinaison AND**
+**Combinaison OR**
 
 <img width="211" height="169" alt="image" src="https://github.com/user-attachments/assets/6dc5d8b2-d611-4613-bb20-f89df2939dda" />
 
