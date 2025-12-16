@@ -115,9 +115,20 @@ Ce dépôt contient les travaux pratiques du **Lab 3**, concentré sur l'écritu
 ###  Combiner filtrage et tri : lister les abonnés Gmail par ordre alphabétique
 <img width="437" height="161" alt="image" src="https://github.com/user-attachments/assets/46af133a-dd02-40d4-8a20-c8554e127c38" />
 
+---
 
 
+## 👤 Auteur
 
+* **École Normale Supérieure de Marrakech**
+  
+* **Réalisé par :** SALMA LAKHAL
+  
+* **Filière  :** CLE_INFO_S5
+  
+* **Date :**  16/12/2025
+  
+* **Encadré par :** Pr. Mohamed LACHGAR
 
 
 
