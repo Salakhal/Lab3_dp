@@ -34,14 +34,16 @@ Ce dépôt contient les travaux pratiques du **Lab 3**, concentré sur l'écritu
 
 ### Opérateurs logiques (AND, OR, NOT)
 
+**Combinaison AND**
+
 <img width="237" height="115" alt="image" src="https://github.com/user-attachments/assets/efc03320-9e73-4d4b-a45e-d8428074e3f4" />
 
-
+**Combinaison AND**
 
 <img width="211" height="169" alt="image" src="https://github.com/user-attachments/assets/6dc5d8b2-d611-4613-bb20-f89df2939dda" />
 
 
-
+**Négation NOT**
 <img width="501" height="210" alt="image" src="https://github.com/user-attachments/assets/11566faa-66e1-4ca5-a15d-f18bc900e143" />
 
 
